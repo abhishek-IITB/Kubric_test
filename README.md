@@ -1,1 +1,0 @@
-# Kubric_test
